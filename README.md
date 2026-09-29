@@ -1,1 +1,2 @@
 # Unit2 01 Python Area Per Rect
+[![Ms Raffin's Super Linter](https://github.com/ICS3U-C-Programming-MignonneG/Unit2-01-Python-AreaPerRect/workflows/Ms%20Raffin's%20Super%20Linter/badge.svg)](https://github.com/ICS3U-C-Programming-MignonneG/Unit2-01-Python-AreaPerRect/actions/)
